@@ -24,6 +24,7 @@ table 75001 "Template Setup"
             DataClassification = AccountData;
         }
         //Comment yurou
+        // Testing 123
     }
 
     keys
