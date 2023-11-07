@@ -4,6 +4,7 @@ table 75001 "Template Setup"
     {
         field(1; "Primary Key"; Code[10])
         {
+            //Stanley added this 
             DataClassification = AccountData;
         }
         Field(20; "Sales Quote Terms"; Text[2000])
