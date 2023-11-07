@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Dalstech 365 sandbox",
+            "tenant": "dalstech365.com",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "startupObjectId": 143,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }
+    ]
+}

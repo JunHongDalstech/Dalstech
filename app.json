@@ -1,0 +1,39 @@
+{
+  "id": "88888888-2023-0011-0007-838469092088",
+  "name": "Github Testing",
+  "publisher": "Dalstech Pte Ltd",
+  "version": "23.0.1.0",
+  "brief": "",
+  "description": "Template Business Forms",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-extension-advanced-example-test",
+  "url": "",
+  "logo": "./Logo/Logo.png",
+  "dependencies": [
+    { 
+     "id": "69092089-2019-0000-0000-838469092088", 
+     "name": "Dalstech GST Localization for Singapore", 
+     "publisher": "Dalstech Pte Ltd", 
+     "version": "15.0.1.0"
+  },
+  { 
+   "id":  "10cb69d9-bc8a-4d27-970a-9e110e9db2a5",
+   "name":  "_Exclude_APIV2_",
+   "publisher":  "Microsoft",
+   "version": "15.0.1.0"
+ }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.dalstech.com",
+  "resourceExposurePolicy": {"allowDebugging": false,"allowDownloadingSource": false,"includeSourceInSymbolFile": false},
+  "runtime":  "12.0"
+}
