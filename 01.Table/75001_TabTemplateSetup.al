@@ -25,6 +25,7 @@ table 75001 "Template Setup"
         }
         //Comment yurou
         // Testing 123
+        //STAN 890
     }
 
     keys
